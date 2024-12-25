@@ -1,0 +1,6 @@
+Task of DIP Lab Final 2024(SEC 2019-20):
+1. Upload the image(DIP_Lab_task_01.png) from drive with extracting details like: image dimension, frequency distribution of intensities, range. [5]
+2. Convert the RGB image(DIP_Lab_task_02.jpg) to a gray scale image and compare a sub-region of the image by intensity values(5*5 dimension would be enough for comparison). [10]
+3. Apply Image(DIP_Lab_task_03.png) smoothing with appropriate kernel applied. Identify the noise(if any) before processing. [35]
+4. Implement an appropriate technique to reduce the brightness of the provided image (DIP_Lab_task_04.jpg) effectively. [20]
+5. Solve the segmentation problem for the given image: 'DIP_Lab_task_05.jpg' [30]
